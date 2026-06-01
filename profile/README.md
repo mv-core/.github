@@ -19,3 +19,12 @@ Collected forks and references organized by domain.
 
 ## 🧰 Runtimes & Utils
 [Filter: runtime](https://github.com/orgs/mv-core/repositories?q=topic%3Aruntime) · [Filter: utils](https://github.com/orgs/mv-core/repositories?q=topic%3Autils)
+
+## 📚 Reference & Knowledge
+[Filter: reference](https://github.com/orgs/mv-core/repositories?q=topic%3Areference)
+
+## 🔒 Security
+[Filter: security](https://github.com/orgs/mv-core/repositories?q=topic%3Asecurity)
+
+## 🔧 Hardware
+[Filter: hardware](https://github.com/orgs/mv-core/repositories?q=topic%3Ahardware)
