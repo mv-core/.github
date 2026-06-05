@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mv-core/.github/main/profile/genome.gif" width="100%" alt="mv-core genome">
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/genome.gif" width="100%" alt="mv-core genome">
 
 <br>
 
