@@ -55,56 +55,39 @@
 
 ---
 
-## 🗺️ Library Topology
+## 🧬 Геном
 
-```mermaid
-graph TD
-    A[🤖 mv-core] --> ai_ml[🤖 AI / ML]
-    ai_ml --> ai_ml_gonka[gonka]
-    ai_ml --> ai_ml_liteparse[liteparse]
-    ai_ml --> ai_ml_termubit[termubit]
-    ai_ml --> ai_ml_more[... +13 more]
-    A[🤖 mv-core] --> ai_agent[🧠 Agents & Coding Tools]
-    ai_agent --> ai_agent_herdr[herdr]
-    ai_agent --> ai_agent_ECC[ECC]
-    ai_agent --> ai_agent_synth_personas[synth-personas]
-    ai_agent --> ai_agent_more[... +15 more]
-    A[🤖 mv-core] --> mcp[🔌 MCP Ecosystem]
-    mcp --> mcp_skillsees[skillsees]
-    mcp --> mcp_skills[skills]
-    mcp --> mcp_exa_mcp_server[exa-mcp-server]
-    mcp --> mcp_more[... +3 more]
-    A[🤖 mv-core] --> infra[🏗️ Infra & DevOps]
-    infra --> infra_openobserve[openobserve]
-    infra --> infra_terraform_provider_aws[terraform-provider-aws]
-    infra --> infra_seaweedfs[seaweedfs]
-    infra --> infra_more[... +8 more]
-    A[🤖 mv-core] --> blockchain[⛓️ Blockchain]
-    blockchain --> blockchain_bsc[bsc]
-    blockchain --> blockchain_go_ethereum[go-ethereum]
-    blockchain --> blockchain_opengnk[opengnk]
-    blockchain --> blockchain_more[... +1 more]
-    A[🤖 mv-core] --> runtime[⚙️ Runtimes]
-    runtime --> runtime_gcc[gcc]
-    runtime --> runtime_bun[bun]
-    runtime --> runtime_rustnet[rustnet]
-    runtime --> runtime_more[... +1 more]
-    A[🤖 mv-core] --> utils[🧰 Tools & Utils]
-    utils --> utils_warp[warp]
-    utils --> utils_yt_dlp[yt-dlp]
-    utils --> utils_airflow[airflow]
-    utils --> utils_more[... +6 more]
-    A[🤖 mv-core] --> security[🔒 Security]
-    security --> security_Awesome_Hacking[Awesome-Hacking]
-    security --> security_GOAD[GOAD]
-    A[🤖 mv-core] --> hardware[🔧 Hardware]
-    hardware --> hardware_GuitarPedal[GuitarPedal]
-    A[🤖 mv-core] --> reference[📚 Reference & Knowledge]
-    reference --> reference_awesome_selfhosted[awesome-selfhosted]
-    reference --> reference_awesome_go[awesome-go]
-    reference --> reference_HelloGitHub[HelloGitHub]
-    reference --> reference_more[... +3 more]
-```
+<div align="center">
+
+<svg width="100%" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dna-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="140" rx="15" fill="url(#dna-grad)" />
+  <text x="400" y="45" text-anchor="middle" dominant-baseline="middle"
+        fill="#00ff88" font-family="monospace" font-size="14" letter-spacing="3">
+    ATCG • FORK • PATTERN • EXECUTE
+  </text>
+  <text x="400" y="85" text-anchor="middle" dominant-baseline="middle"
+        fill="rgba(255,255,255,0.9)" font-family="system-ui, sans-serif" font-size="18" font-style="italic">
+    «Организация акумулирует в себе ядро для автономной
+  </text>
+  <text x="400" y="110" text-anchor="middle" dominant-baseline="middle"
+        fill="rgba(255,255,255,0.9)" font-family="system-ui, sans-serif" font-size="18" font-style="italic">
+    и полезной работы совокупностью всех инструментов и сил»
+  </text>
+</svg>
+
+<br>
+
+<i>Каждый форк — аллель. Каждый topic — хромосома. Каждый паттерн — инструкция в ДНК <a href="https://github.com/Mayveskii/Mimic">Mimic</a>.</i><br>
+<i>На сколько хватит сил этой организации — на столько и будет жить автономия.</i>
+
+</div>
 
 ---
 
