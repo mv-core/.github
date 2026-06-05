@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<svg width="100%" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="dna-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
@@ -67,25 +67,26 @@
       <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="800" height="140" rx="15" fill="url(#dna-grad)" />
-  <text x="400" y="45" text-anchor="middle" dominant-baseline="middle"
-        fill="#00ff88" font-family="monospace" font-size="14" letter-spacing="3">
-    ATCG • FORK • PATTERN • EXECUTE
-  </text>
-  <text x="400" y="85" text-anchor="middle" dominant-baseline="middle"
-        fill="rgba(255,255,255,0.9)" font-family="system-ui, sans-serif" font-size="18" font-style="italic">
-    «Организация акумулирует в себе ядро для автономной
-  </text>
-  <text x="400" y="110" text-anchor="middle" dominant-baseline="middle"
-        fill="rgba(255,255,255,0.9)" font-family="system-ui, sans-serif" font-size="18" font-style="italic">
-    и полезной работы совокупностью всех инструментов и сил»
+  <rect width="800" height="100" rx="15" fill="url(#dna-grad)" />
+  <text x="400" y="55" text-anchor="middle" dominant-baseline="middle"
+        font-family="monospace" font-size="16" letter-spacing="4">
+    <tspan fill="#FF6B6B">A</tspan><tspan fill="#4ECDC4">T</tspan><tspan fill="#95E1D3">C</tspan><tspan fill="#F7DC6F">G</tspan>
+    <tspan fill="rgba(255,255,255,0.3)"> • </tspan>
+    <tspan fill="#FFFFFF">FORK</tspan>
+    <tspan fill="rgba(255,255,255,0.3)"> • </tspan>
+    <tspan fill="#FFFFFF">PATTERN</tspan>
+    <tspan fill="rgba(255,255,255,0.3)"> • </tspan>
+    <tspan fill="#FFFFFF">EXECUTE</tspan>
   </text>
 </svg>
 
 <br>
 
-<i>Каждый форк — аллель. Каждый topic — хромосома. Каждый паттерн — инструкция в ДНК <a href="https://github.com/Mayveskii/Mimic">Mimic</a>.</i><br>
-<i>На сколько хватит сил этой организации — на столько и будет жить автономия.</i>
+> *«Организация акумулирует в себе ядро для автономной и полезной работы совокупностью всех инструментов и сил — на сколько это будет в силах этой организации.»*
+
+<br>
+
+<i>Каждый форк — аллель. Каждый topic — хромосома. Каждый паттерн — инструкция в ДНК <a href="https://github.com/Mayveskii/Mimic">Mimic</a>.</i>
 
 </div>
 
