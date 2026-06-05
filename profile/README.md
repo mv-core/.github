@@ -18,26 +18,21 @@
   
   <rect width="800" height="200" rx="20" fill="url(#mv-grad)" />
   
-  <!-- Glow orb behind title -->
   <circle cx="400" cy="90" r="120" fill="url(#glow-grad)" />
   
-  <!-- Decorative rings -->
   <circle cx="400" cy="90" r="80" fill="none" stroke="rgba(102,126,234,0.15)" stroke-width="1" />
   <circle cx="400" cy="90" r="60" fill="none" stroke="rgba(118,75,162,0.2)" stroke-width="1" />
   
-  <!-- Title -->
   <text x="400" y="75" text-anchor="middle" dominant-baseline="middle" 
         fill="white" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="900">
     🤖 mv-core
   </text>
   
-  <!-- Subtitle -->
   <text x="400" y="115" text-anchor="middle" dominant-baseline="middle" 
         fill="#a0a0ff" font-family="monospace" font-size="15" letter-spacing="4">
     RESEARCH &amp; DEVELOPMENT LIBRARY
   </text>
   
-  <!-- Colored nucleotides -->
   <text x="400" y="160" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="17" letter-spacing="6">
     <tspan fill="#FF6B6B" font-weight="bold">A</tspan>
     <tspan fill="#4ECDC4" font-weight="bold">T</tspan>
@@ -77,7 +72,7 @@
 
 <div align="center">
 
-> *«Организация акумулирует в себе ядро для автономной и полезной работы совокупностью всех инструментов и сил — на сколько это будет в силах этой организации.»*
+<img src="https://raw.githubusercontent.com/mv-core/.github/main/profile/genome.gif" width="100%" alt="mv-core genome">
 
 <br>
 
