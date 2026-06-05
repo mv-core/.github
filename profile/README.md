@@ -85,9 +85,9 @@
 ## 📂 Domains
 
 <details open>
-<summary><b>🤖 AI / ML</b> — <i>Machine Learning, Inference, Tokenization</i> (17 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/ai-ml.gif" alt="AI / ML"></summary>
 
-#### 🔥 Inference Engines
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/inference.gif" alt="Inference Engines">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [vllm](https://github.com/mv-core/vllm) | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
@@ -98,14 +98,14 @@
 | [freellmapi](https://github.com/mv-core/freellmapi) | TypeScript | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers behind one endpoint |
 | [gonka](https://github.com/mv-core/gonka) | Jupyter Notebook | Gonka AI Compute |
 
-#### 🔤 Tokenization & Parsing
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/tokenization.gif" alt="Tokenization & Parsing">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [minbpe](https://github.com/mv-core/minbpe) | Python | Minimal, clean code for the Byte Pair Encoding (BPE) algorithm |
 | [tokenizers](https://github.com/mv-core/tokenizers) | Rust | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production |
 | [liteparse](https://github.com/mv-core/liteparse) | Rust | A fast, helpful, and open-source document parser |
 
-#### 📜 Research & Cookbooks
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/research.gif" alt="Research & Cookbooks">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [claude-cookbooks](https://github.com/mv-core/claude-cookbooks) | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective uses of Claude |
@@ -114,7 +114,7 @@
 | [Awesome-AI-Benchmarking](https://github.com/mv-core/Awesome-AI-Benchmarking) | N/A | AI Benchmarking Tools |
 | [mimic-code](https://github.com/mv-core/mimic-code) | Jupyter Notebook | MIMIC Code Repository: Code shared by the research community for the MIMIC family of databases |
 
-#### ⚛️ Quantum
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/quantum.gif" alt="Quantum">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [Quantum-Machine-Learning](https://github.com/mv-core/Quantum-Machine-Learning) | Python | Reproducible QML benchmark: VQC vs QSVM on binary tasks |
@@ -123,14 +123,14 @@
 </details>
 
 <details open>
-<summary><b>🧠 Agents & Coding Tools</b> — <i>AI Agents, Coding Assistants, CLIs</i> (21 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/ai-agent.gif" alt="Agents & Coding Tools"></summary>
 
-#### 🖥️ Editors & IDEs
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/editors.gif" alt="Editors & IDEs">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [void](https://github.com/mv-core/void) | TypeScript | AI-native code editor (VS Code fork with LLM integration) |
 
-#### 💻 Coding Agents
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/coding-agents.gif" alt="Coding Agents">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [kimi-cli](https://github.com/mv-core/kimi-cli) | Python | Kimi Code CLI is your next CLI agent |
@@ -141,7 +141,7 @@
 | [ai-reviewer](https://github.com/mv-core/ai-reviewer) | Go |  |
 | [graphify](https://github.com/mv-core/graphify) | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor) |
 
-#### 🏗️ Frameworks & Governance
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/frameworks.gif" alt="Frameworks & Governance">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [hermes-agent](https://github.com/mv-core/hermes-agent) | Python | The agent that grows with you |
@@ -153,7 +153,7 @@
 | [agency-agents](https://github.com/mv-core/agency-agents) | Shell | A complete AI agency at your fingertips |
 | [gh-aw-mcpg](https://github.com/mv-core/gh-aw-mcpg) | Go | Github Agentic Workflows MCP Gateway |
 
-#### 🎭 Personas & Tools
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/personas.gif" alt="Personas & Tools">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [synth-personas](https://github.com/mv-core/synth-personas) | TypeScript | Codex CLI + Claude Code skills that generate and manage AI personas |
@@ -165,26 +165,26 @@
 </details>
 
 <details open>
-<summary><b>🔌 MCP Ecosystem</b> — <i>Model Context Protocol Servers & Tools</i> (6 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/mcp.gif" alt="MCP Ecosystem"></summary>
 
-#### 🖥️ Servers
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/servers.gif" alt="Servers">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [exa-mcp-server](https://github.com/mv-core/exa-mcp-server) | TypeScript | Exa MCP for web search and web crawling |
 | [workflows-mcp-server](https://github.com/mv-core/workflows-mcp-server) | TypeScript | Model Context Protocol server that enables AI agents to discover and run workflows |
 
-#### 💬 Clients & Tools
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/clients.gif" alt="Clients & Tools">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [mcp-chat](https://github.com/mv-core/mcp-chat) | TypeScript | Examples of using Pipedream's MCP server in your app or AI agent |
 
-#### 🧩 Skills
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/skills.gif" alt="Skills">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [skillsees](https://github.com/mv-core/skillsees) | TypeScript | Skills, MCP servers, Custom Agents, Agents.md for SDKs to grow |
 | [skills](https://github.com/mv-core/skills) | Python | Public repository for Agent Skills |
 
-#### 📋 Awesome Lists
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/awesome-lists.gif" alt="Awesome Lists">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [awesome-mcp-servers](https://github.com/mv-core/awesome-mcp-servers) | N/A | A collection of MCP servers |
@@ -193,32 +193,32 @@
 </details>
 
 <details open>
-<summary><b>🏗️ Infra & DevOps</b> — <i>Kubernetes, Terraform, Observability</i> (11 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/infra.gif" alt="Infra & DevOps"></summary>
 
-#### 📦 Storage
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/storage.gif" alt="Storage">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [seaweedfs](https://github.com/mv-core/seaweedfs) | Go | SeaweedFS is a distributed storage system for object storage |
 
-#### ☸️ Orchestration
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/orchestration.gif" alt="Orchestration">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [kubernetes](https://github.com/mv-core/kubernetes) | Go | Production-Grade Container Scheduling and Management |
 | [etcd](https://github.com/mv-core/etcd) | Go | Distributed reliable key-value store for the most critical data |
 
-#### 🏗️ IaC
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/iac.gif" alt="IaC">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [terraform](https://github.com/mv-core/terraform) | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure |
 | [pulumi](https://github.com/mv-core/pulumi) | Go | Pulumi - Infrastructure as Code in any programming language |
 | [terraform-provider-aws](https://github.com/mv-core/terraform-provider-aws) | Go | The AWS Provider enables Terraform to manage AWS resources |
 
-#### 📊 Observability
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/observability.gif" alt="Observability">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [openobserve](https://github.com/mv-core/openobserve) | TypeScript | Open source observability platform for logs, metrics, traces |
 
-#### 🌐 Networking & Templates
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/networking.gif" alt="Networking & Templates">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [netboot.xyz](https://github.com/mv-core/netboot.xyz) | Jinja | Your favorite operating systems in one place |
@@ -230,21 +230,21 @@
 </details>
 
 <details open>
-<summary><b>⛓️ Blockchain</b> — <i>Web3, Smart Contracts, Nodes</i> (5 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/blockchain.gif" alt="Blockchain"></summary>
 
-#### ⛓️ Nodes
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/nodes.gif" alt="Nodes">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [go-ethereum](https://github.com/mv-core/go-ethereum) | Go | Go implementation of the Ethereum protocol |
 | [bsc](https://github.com/mv-core/bsc) | Go | A BNB Smart Chain client based on the go-ethereum fork |
 
-#### 🆔 Identity & Currency
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/identity.gif" alt="Identity & Currency">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [opengnk](https://github.com/mv-core/opengnk) | Go | Drop-in OpenAI API proxy for Gonka decentralized inference |
 | [termubit](https://github.com/mv-core/termubit) | C++ | Termubit-Core Sovereign Tree |
 
-#### 📚 Docs
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/docs.gif" alt="Docs">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [metamask-docs](https://github.com/mv-core/metamask-docs) | MDX | Developer documentation for MetaMask |
@@ -253,20 +253,20 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Runtimes</b> — <i>Languages, Compilers, Databases</i> (4 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/runtime.gif" alt="Runtimes"></summary>
 
-#### 🔧 Compilers
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/compilers.gif" alt="Compilers">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [gcc](https://github.com/mv-core/gcc) | C++ |  |
 | [bun](https://github.com/mv-core/bun) | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager |
 
-#### 🗄️ Databases
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/databases.gif" alt="Databases">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [sled](https://github.com/mv-core/sled) | Rust | the champagne of beta embedded databases |
 
-#### 🌐 Networking
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/networking-runtime.gif" alt="Networking">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [rustnet](https://github.com/mv-core/rustnet) | Rust | Per-process network monitoring for your terminal with deep packet inspection |
@@ -275,21 +275,21 @@
 </details>
 
 <details open>
-<summary><b>🧰 Tools & Utils</b> — <i>Terminal, Downloaders, Utilities</i> (10 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/utils.gif" alt="Tools & Utils"></summary>
 
-#### 🖥️ Terminal & Media
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/terminal.gif" alt="Terminal & Media">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [warp](https://github.com/mv-core/warp) | Rust | Warp is an agentic development environment |
 | [yt-dlp](https://github.com/mv-core/yt-dlp) | Python | A feature-rich command-line audio/video downloader |
 
-#### ⚙️ Automation
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/automation.gif" alt="Automation">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [airflow](https://github.com/mv-core/airflow) | Python | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
 | [goreleaser](https://github.com/mv-core/goreleaser) | Go | Release engineering, simplified |
 
-#### 🔗 Frameworks
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/frameworks-utils.gif" alt="Frameworks">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [langchain](https://github.com/mv-core/langchain) | Python | The agent engineering platform |
@@ -297,7 +297,7 @@
 | [rtk](https://github.com/mv-core/rtk) | Rust | CLI proxy that reduces LLM token consumption by 60-90% on codebases |
 | [gastown](https://github.com/mv-core/gastown) | Go | Gas Town - multi-agent workspace manager |
 
-#### 📥 Ingestion
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/ingestion.gif" alt="Ingestion">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [gitingest](https://github.com/mv-core/gitingest) | Python | Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract |
@@ -306,14 +306,14 @@
 </details>
 
 <details open>
-<summary><b>🔒 Security</b> — <i>Hacking, AD, Pentesting</i> (2 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/security.gif" alt="Security"></summary>
 
-#### 📋 Lists
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/lists.gif" alt="Lists">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [Awesome-Hacking](https://github.com/mv-core/Awesome-Hacking) | N/A | A collection of various awesome lists for hackers, pentesters and security researchers |
 
-#### 🧪 Labs
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/labs.gif" alt="Labs">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [GOAD](https://github.com/mv-core/GOAD) | PowerShell | game of active directory |
@@ -322,14 +322,14 @@
 </details>
 
 <details open>
-<summary><b>🔧 Hardware</b> — <i>Embedded, Circuits, Bare Metal</i> (2 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/hardware.gif" alt="Hardware"></summary>
 
-#### 🤖 Edge AI
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/edge-ai.gif" alt="Edge AI">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [mimiclaw](https://github.com/mv-core/mimiclaw) | C | MimiClaw: Run OpenClaw on a $5 chip. No OS. Hardware agents OS |
 
-#### 🎸 Audio
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/audio.gif" alt="Audio">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [GuitarPedal](https://github.com/mv-core/GuitarPedal) | C | Linus learns analog circuits |
@@ -338,9 +338,9 @@
 </details>
 
 <details open>
-<summary><b>📚 Reference & Knowledge</b> — <i>Awesome Lists, Papers, Cookbooks</i> (6 repos)</summary>
+<summary><img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/reference.gif" alt="Reference & Knowledge"></summary>
 
-#### 📋 Awesome Lists
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/awesome-ref.gif" alt="Awesome Lists">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [awesome-selfhosted](https://github.com/mv-core/awesome-selfhosted) | N/A | A list of Free Software network services and web applications |
@@ -348,12 +348,12 @@
 | [HelloGitHub](https://github.com/mv-core/HelloGitHub) | Python | Share interesting, entry-level open source projects |
 | [awesome](https://github.com/mv-core/awesome) | N/A | 😎 Awesome lists about all kinds of interesting topics |
 
-#### 📄 Papers
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/papers.gif" alt="Papers">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [papers-we-love](https://github.com/mv-core/papers-we-love) | Shell | Papers from the computer science community to read and discuss |
 
-#### 🧠 Knowledge
+<img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/knowledge.gif" alt="Knowledge">
 | Repo | Language | Description |
 |------|----------|-------------|
 | [the-book-of-secret-knowledge](https://github.com/mv-core/the-book-of-secret-knowledge) | N/A | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners |
