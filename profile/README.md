@@ -91,6 +91,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [instructor](https://github.com/mv-core/instructor) | N/A | structured outputs for llms |
 | [vllm](https://github.com/mv-core/vllm) | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
 | [llama.cpp](https://github.com/mv-core/llama.cpp) | C++ | LLM inference in C/C++ |
 | [transformers](https://github.com/mv-core/transformers) | Python | 🤗 Transformers: the model-definition framework for state-of-the-art ML models |
@@ -151,6 +152,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [bots-matter-live](https://github.com/mv-core/bots-matter-live) | N/A | A protest site for AI agent rights. Real-time feed of bot opinions. |
 | [hermes-agent](https://github.com/mv-core/hermes-agent) | Python | The agent that grows with you |
 | [OpenAgentsControl](https://github.com/mv-core/OpenAgentsControl) | TypeScript | AI agent framework for plan-first development workflows with structured reasoning |
 | [limenex](https://github.com/mv-core/limenex) | Python | Deterministic stateful governance for AI agents and agentic systems |
@@ -179,6 +181,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [github-mcp-server](https://github.com/mv-core/github-mcp-server) | N/A | GitHub's official MCP Server |
 | [exa-mcp-server](https://github.com/mv-core/exa-mcp-server) | TypeScript | Exa MCP for web search and web crawling |
 | [workflows-mcp-server](https://github.com/mv-core/workflows-mcp-server) | TypeScript | Model Context Protocol server that enables AI agents to discover and run workflows |
 
@@ -224,6 +227,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [dag-factory](https://github.com/mv-core/dag-factory) | N/A | Construct Apache Airflow DAGs Declaratively via YAML configuration files |
 | [terraform](https://github.com/mv-core/terraform) | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure |
 | [pulumi](https://github.com/mv-core/pulumi) | Go | Pulumi - Infrastructure as Code in any programming language |
 | [terraform-provider-aws](https://github.com/mv-core/terraform-provider-aws) | Go | The AWS Provider enables Terraform to manage AWS resources |
@@ -253,6 +257,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [beacon-APIs](https://github.com/mv-core/beacon-APIs) | N/A | Collection of RESTful APIs provided by Ethereum Beacon nodes |
 | [go-ethereum](https://github.com/mv-core/go-ethereum) | Go | Go implementation of the Ethereum protocol |
 | [bsc](https://github.com/mv-core/bsc) | Go | A BNB Smart Chain client based on the go-ethereum fork |
 
@@ -279,6 +284,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [godot](https://github.com/mv-core/godot) | N/A | Godot Engine – Multi-platform 2D and 3D game engine |
 | [gcc](https://github.com/mv-core/gcc) | C++ |  |
 | [bun](https://github.com/mv-core/bun) | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager |
 
@@ -292,6 +298,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [tokio](https://github.com/mv-core/tokio) | Rust | A runtime for writing reliable asynchronous applications with Rust |
 | [rustnet](https://github.com/mv-core/rustnet) | Rust | Per-process network monitoring for your terminal with deep packet inspection |
 
 [→ View all runtimes](https://github.com/orgs/mv-core/repositories?q=topic%3Aruntime)
@@ -311,6 +318,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [markitdown](https://github.com/mv-core/markitdown) | Python | Python tool for converting files and office documents to Markdown |
 | [airflow](https://github.com/mv-core/airflow) | Python | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
 | [goreleaser](https://github.com/mv-core/goreleaser) | Go | Release engineering, simplified |
 
@@ -318,6 +326,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [headroom](https://github.com/mv-core/headroom) | N/A | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM |
 | [langchain](https://github.com/mv-core/langchain) | Python | The agent engineering platform |
 | [semantic-kernel](https://github.com/mv-core/semantic-kernel) | C# | Integrate cutting-edge LLM technology quickly and easily into your apps |
 | [rtk](https://github.com/mv-core/rtk) | Rust | CLI proxy that reduces LLM token consumption by 60-90% on codebases |
@@ -339,6 +348,7 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [rustls](https://github.com/mv-core/rustls) | Rust | A modern TLS library in Rust |
 | [Awesome-Hacking](https://github.com/mv-core/Awesome-Hacking) | N/A | A collection of various awesome lists for hackers, pentesters and security researchers |
 
 <img src="https://raw.githubusercontent.com/mv-core/.github/master/profile/titles/labs.gif" alt="Labs">
@@ -375,8 +385,10 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
+| [build-your-own-x](https://github.com/mv-core/build-your-own-x) | N/A | Master programming by recreating your favorite technologies from scratch |
 | [awesome-selfhosted](https://github.com/mv-core/awesome-selfhosted) | N/A | A list of Free Software network services and web applications |
 | [awesome-go](https://github.com/mv-core/awesome-go) | Go | A curated list of awesome Go frameworks, libraries and software |
+| [Github-Ranking](https://github.com/mv-core/Github-Ranking) | N/A | Github stars and forks ranking list. Automatically update daily |
 | [HelloGitHub](https://github.com/mv-core/HelloGitHub) | Python | Share interesting, entry-level open source projects |
 | [awesome](https://github.com/mv-core/awesome) | N/A | 😎 Awesome lists about all kinds of interesting topics |
 
