@@ -49,16 +49,16 @@
 
 <br>
 
-[![AI / ML](https://img.shields.io/badge/🤖_AI___ML-17-5865F2?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aai-ml)<br>
-[![Agents & Coding Tools](https://img.shields.io/badge/🧠_Agents_and_Coding_Tools-21-57F287?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aai-agent)<br>
-[![MCP Ecosystem](https://img.shields.io/badge/🔌_MCP_Ecosystem-6-FEE75C?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Amcp)<br>
-[![Infra & DevOps](https://img.shields.io/badge/🏗️_Infra_and_DevOps-11-ED4245?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ainfra)<br>
-[![Blockchain](https://img.shields.io/badge/⛓️_Blockchain-5-EB459E?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ablockchain)<br>
-[![Runtimes](https://img.shields.io/badge/⚙️_Runtimes-4-5865F2?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aruntime)<br>
-[![Tools & Utils](https://img.shields.io/badge/🧰_Tools_and_Utils-10-95A5A6?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Autils)<br>
-[![Security](https://img.shields.io/badge/🔒_Security-2-E74C3C?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Asecurity)<br>
-[![Hardware](https://img.shields.io/badge/🔧_Hardware-2-8E44AD?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ahardware)<br>
-[![Reference & Knowledge](https://img.shields.io/badge/📚_Reference_and_Knowledge-6-F1C40F?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Areference)
+[![AI / ML](https://img.shields.io/badge/AI___ML-18-5865F2?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aai-ml)<br>
+[![Agents & Coding Tools](https://img.shields.io/badge/Agents_and_Coding_Tools-22-57F287?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aai-agent)<br>
+[![MCP Ecosystem](https://img.shields.io/badge/MCP_Ecosystem-7-FEE75C?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Amcp)<br>
+[![Infra & DevOps](https://img.shields.io/badge/Infra_and_DevOps-12-ED4245?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ainfra)<br>
+[![Blockchain](https://img.shields.io/badge/Blockchain-6-EB459E?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ablockchain)<br>
+[![Runtimes](https://img.shields.io/badge/Runtimes-6-5865F2?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aruntime)<br>
+[![Tools & Utils](https://img.shields.io/badge/Tools_and_Utils-12-95A5A6?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Autils)<br>
+[![Security](https://img.shields.io/badge/Security-3-E74C3C?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Asecurity)<br>
+[![Hardware](https://img.shields.io/badge/Hardware-2-8E44AD?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ahardware)<br>
+[![Reference & Knowledge](https://img.shields.io/badge/Reference_and_Knowledge-8-F1C40F?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Areference)
 
 <br><br>
 
