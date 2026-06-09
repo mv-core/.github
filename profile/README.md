@@ -50,7 +50,7 @@
 <br>
 
 [![AI / ML](https://img.shields.io/badge/AI___ML-18-5865F2?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aai-ml)<br>
-[![Agents & Coding Tools](https://img.shields.io/badge/Agents_and_Coding_Tools-22-57F287?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aai-agent)<br>
+[![Agents & Coding Tools](https://img.shields.io/badge/Agents_and_Coding_Tools-23-57F287?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Aai-agent)<br>
 [![MCP Ecosystem](https://img.shields.io/badge/MCP_Ecosystem-7-FEE75C?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Amcp)<br>
 [![Infra & DevOps](https://img.shields.io/badge/Infra_and_DevOps-12-ED4245?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ainfra)<br>
 [![Blockchain](https://img.shields.io/badge/Blockchain-6-EB459E?style=for-the-badge&logo=github)](https://github.com/orgs/mv-core/repositories?q=topic%3Ablockchain)<br>
